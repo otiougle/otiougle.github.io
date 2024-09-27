@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://otiougle.github.io/sitemap.otiougle.gz
+Sitemap: https://otiougle.github.io/app/sitemap.otiougle.gz
+Sitemap: https://otiougle.github.io/assets/sitemap.otiougle.gz
+Sitemap: https://otiougle.github.io/css/sitemap.otiougle.gz
+Sitemap: https://otiougle.github.io/data/sitemap.otiougle.gz
+Sitemap: https://otiougle.github.io/includes/sitemap.otiougle.gz
+Sitemap: https://otiougle.github.io/item/sitemap.otiougle.gz
+Sitemap: https://otiougle.github.io/src/sitemap.otiougle.gz
